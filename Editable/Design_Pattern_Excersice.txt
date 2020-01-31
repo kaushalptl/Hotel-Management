@@ -1,0 +1,7 @@
+Draw Overall class structure and apply suitable design pattern for following : A company has two types of manager: Sales Manager and Marketing Manager. Two types of software developers are there : JAVA and .NET Developer. Write code to create specific Manager and Developer objetcs from main method and also find a way to count number of manager and developer objects in the system.
+
+Draw Overall class structure and apply suitable design pattern for following : Create various Square and Circle objects in JAVA program and put them in random locations on window. 
+
+Draw Overall class structure and apply suitable design pattern for following : A Basic Signal processor can only process analog signals. There is separate module digital signal processor. Write a code in such a way that even if we supply digital signals to the basic processor module, it can also process it and give results.
+
+Consider a game of three levels. Any player who clears all three levels wins the game. Player will be given three life lines to win the game. If player clears any intermediate level (less than final level) and loses lifeline in next level, then again it will start from last complete level. Use some technique to store the state of completed level and to restore the same level. Player class has Health, Level, Lifeline and Score attributes. Write pseudo code for game play by using appropriate design pattern.
